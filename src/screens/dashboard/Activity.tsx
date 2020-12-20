@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
 export default function Activity() {
   const navigation = useNavigation()
   const { productsValue } = useContext(ProductsContext)
-  const arrayProd = productsValue.filter(item => item.activity === false)
+  const arrayProd = productsValue.filter(item => item.activity === true)
 
   const openUrl = (url: string) => {
     Linking.openURL(url)
