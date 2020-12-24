@@ -1,4 +1,4 @@
-# 💻 Empresta Facil - Selling Dreams
+# 💻 Empresta Facil - Selling Dreams (Equipe vencedora do Hackathon Empresta mais 2020)
 
 **Empresta Facil - Selling Dreams** é uma plataforma de vendas de crédito consignados de maneira automatizada com chatbot interativo,
 fluxo de vendas completamente automatizado, o que trás como benefício a não necessidade de haver um funcionário acompanhando o cliente.
