@@ -1,5 +1,5 @@
 # 💻 Empresta Facil - Selling Dreams 
-## (Hackathon winning team Empresta+ 2020)
+## (Hackathon winning team Empresta 2020)
 
 **Empresta Facil - Selling Dreams** is an automated payroll credit sales platform with interactive chatbot,
 completely automated sales flow, which brings the benefit of not needing an employee to accompany the customer.
